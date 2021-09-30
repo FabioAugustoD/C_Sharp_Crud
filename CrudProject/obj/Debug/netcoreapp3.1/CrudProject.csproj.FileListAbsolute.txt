@@ -1,0 +1,17 @@
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.exe
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.deps.json
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.runtimeconfig.json
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.dll
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\bin\Debug\netcoreapp3.1\CrudProject.pdb
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.FormStudentInfo.resources
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.Properties.Resources.resources
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.dll
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.pdb
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.genruntimeconfig.cache

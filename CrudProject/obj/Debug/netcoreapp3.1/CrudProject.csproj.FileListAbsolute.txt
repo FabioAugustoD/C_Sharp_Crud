@@ -15,3 +15,4 @@ C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\Crud
 C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.dll
 C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.pdb
 C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.genruntimeconfig.cache
+C:\Users\Fabio\source\repos\CrudProject\CrudProject\obj\Debug\netcoreapp3.1\CrudProject.FormStudent.resources

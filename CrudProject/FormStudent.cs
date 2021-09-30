@@ -8,17 +8,21 @@ using System.Windows.Forms;
 
 namespace CrudProject
 {
-    public partial class FormStudentInfo : Form
+    public partial class FormStudent : Form
     {
-        public FormStudentInfo()
+        public FormStudent()
         {
             InitializeComponent();
         }
 
-        private void btnNew_Click(object sender, EventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            FormStudent form = new FormStudent();
-            form.ShowDialog();
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
